@@ -2,7 +2,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-## I am SAMBHAV AGARWAL
+## I am drone and robotics enthusiast
 
 - 🔭 Developing a custom VTOL UAV flight controller (STM32, ESP32)
 - 🌱 Implementing SLAM and autonomous robotics using ROS 2 and Gazebo
