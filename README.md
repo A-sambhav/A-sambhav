@@ -4,8 +4,9 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ## I am SAMBHAV AGARWAL
 
-- 🔭 I’m currently working on face Emotion recogitation model
-- 🌱 I’m currently learning "how to make machine learn"
+- 🔭 Developing a custom VTOL UAV flight controller (STM32, ESP32)
+- 🌱 Implementing SLAM and autonomous robotics using ROS 2 and Gazebo
+- ⚡ Exploring embedded systems and real-time control
 
 <hr>
 
